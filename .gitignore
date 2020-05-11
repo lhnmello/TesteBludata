@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/TesteBludata/v16
+/.vs
+/TesteBludataForms/bin/Debug
+/TesteBludataForms/obj/Debug
+/TesteBludataLib/bin/Debug/netstandard2.0
+/TesteBludataLib/obj

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteBludataForms", "TesteBludataForms\TesteBludataForms.csproj", "{157A6A7D-4F82-4867-9E58-09E43F1EF955}"
+	ProjectSection(ProjectDependencies) = postProject
+		{5C636374-C39B-4794-A18C-E5A6EE0D7E0D} = {5C636374-C39B-4794-A18C-E5A6EE0D7E0D}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TesteBludataLib", "TesteBludataLib\TesteBludataLib.csproj", "{5C636374-C39B-4794-A18C-E5A6EE0D7E0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{157A6A7D-4F82-4867-9E58-09E43F1EF955}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{157A6A7D-4F82-4867-9E58-09E43F1EF955}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{157A6A7D-4F82-4867-9E58-09E43F1EF955}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{157A6A7D-4F82-4867-9E58-09E43F1EF955}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C636374-C39B-4794-A18C-E5A6EE0D7E0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C636374-C39B-4794-A18C-E5A6EE0D7E0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C636374-C39B-4794-A18C-E5A6EE0D7E0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C636374-C39B-4794-A18C-E5A6EE0D7E0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2889A50F-DEBE-4E52-B84B-B8772F5E0C47}
+	EndGlobalSection
+EndGlobal
